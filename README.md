@@ -1,5 +1,5 @@
 # ETEC-PAM-II <br>
-Aplicativos desenvolvidos por Cainã Sandes, apresentado ao curso de Desenvolvimento de Sistemas. <br>
+Aplicativos desenvolvidos por Cainã Sandes, <br> apresentado ao curso de Desenvolvimento de Sistemas. <hr>
 Aplicativos em "Branches":
 APP IMC <br>
 APP CALCULADORA <br>
